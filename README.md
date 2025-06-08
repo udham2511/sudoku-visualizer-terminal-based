@@ -5,7 +5,7 @@ A simple Python program that visualizes how the backtracking algorithm solves a 
 
 ## 📸 Demo
 
-![demo](https://github.com/udham2511/sudoku-visualizer-terminal-based/blob/assets/demo.png)
+![demo](https://github.com/udham2511/sudoku-visualizer-terminal-based/blob/main/assets/demo.png)
 
 ## 🛠️ Technologies Used
 
